@@ -24,3 +24,4 @@ C:\Users\Saeed\source\repos\SportStore\src\SportStore\obj\Debug\netcoreapp2.2\Sp
 C:\Users\Saeed\source\repos\SportStore\src\SportStore\obj\Debug\netcoreapp2.2\SportStore.dll
 C:\Users\Saeed\source\repos\SportStore\src\SportStore\obj\Debug\netcoreapp2.2\SportStore.pdb
 C:\Users\Saeed\source\repos\SportStore\src\SportStore\obj\Debug\netcoreapp2.2\SportStore.csproj.CopyComplete
+C:\Users\Saeed\source\repos\SportStore\src\SportStore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ProductSummary.g.cshtml.cs
