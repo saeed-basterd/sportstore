@@ -1,0 +1,61 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/bootstrap-new/js/dist/bundle.min.js",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap-new/js/dist/alert.js",
+      "wwwroot/lib/bootstrap-new/js/dist/button.js",
+      "wwwroot/lib/bootstrap-new/js/dist/carousel.js",
+      "wwwroot/lib/bootstrap-new/js/dist/collapse.js",
+      "wwwroot/lib/bootstrap-new/js/dist/dropdown.js",
+      "wwwroot/lib/bootstrap-new/js/dist/index.js",
+      "wwwroot/lib/bootstrap-new/js/dist/modal.js",
+      "wwwroot/lib/bootstrap-new/js/dist/popover.js",
+      "wwwroot/lib/bootstrap-new/js/dist/scrollspy.js",
+      "wwwroot/lib/bootstrap-new/js/dist/tab.js",
+      "wwwroot/lib/bootstrap-new/js/dist/tooltip.js",
+      "wwwroot/lib/bootstrap-new/js/dist/util.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/bootstrap-new/dist/css/bundle.min.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap-new/dist/css/bootstrap.css",
+      "wwwroot/lib/bootstrap-new/dist/css/bootstrap-grid.css",
+      "wwwroot/lib/bootstrap-new/dist/css/bootstrap-reboot.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/bootstrap-new/js/src/bundle.min.js",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap-new/js/src/alert.js",
+      "wwwroot/lib/bootstrap-new/js/src/button.js",
+      "wwwroot/lib/bootstrap-new/js/src/carousel.js",
+      "wwwroot/lib/bootstrap-new/js/src/collapse.js",
+      "wwwroot/lib/bootstrap-new/js/src/dropdown.js",
+      "wwwroot/lib/bootstrap-new/js/src/index.js",
+      "wwwroot/lib/bootstrap-new/js/src/modal.js",
+      "wwwroot/lib/bootstrap-new/js/src/popover.js",
+      "wwwroot/lib/bootstrap-new/js/src/scrollspy.js",
+      "wwwroot/lib/bootstrap-new/js/src/tab.js",
+      "wwwroot/lib/bootstrap-new/js/src/tooltip.js",
+      "wwwroot/lib/bootstrap-new/js/src/util.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/bootstrap-new/js/src/bundle.js",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap-new/js/src/alert.js",
+      "wwwroot/lib/bootstrap-new/js/src/button.js",
+      "wwwroot/lib/bootstrap-new/js/src/carousel.js",
+      "wwwroot/lib/bootstrap-new/js/src/collapse.js",
+      "wwwroot/lib/bootstrap-new/js/src/dropdown.js",
+      "wwwroot/lib/bootstrap-new/js/src/index.js",
+      "wwwroot/lib/bootstrap-new/js/src/modal.js",
+      "wwwroot/lib/bootstrap-new/js/src/popover.js",
+      "wwwroot/lib/bootstrap-new/js/src/scrollspy.js",
+      "wwwroot/lib/bootstrap-new/js/src/tab.js",
+      "wwwroot/lib/bootstrap-new/js/src/tooltip.js",
+      "wwwroot/lib/bootstrap-new/js/src/util.js"
+    ]
+  }
+]
