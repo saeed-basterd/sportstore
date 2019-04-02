@@ -9,9 +9,9 @@ namespace SportStore.Data
 {
     public class SportStoreDataContext : DbContext
     {
-        public SportStoreDataContext(DbContextOptions<SportStoreDataContext> options) : base(options)
+        public SportStoreDataContext(
+            DbContextOptions<SportStoreDataContext> options) : base(options)
         {
-
         }
 
         public DbSet<Product> Products { get; set; }

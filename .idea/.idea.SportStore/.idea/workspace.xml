@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="301331bb-b8f9-48f9-9daa-d85cbfea9e1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportStore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SportStore.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportStore.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SportStore.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/.bowerrc" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/.bowerrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Data/SportStoreDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Data/SportStoreDataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/SportStoreDataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/SportStoreDataContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/EFProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/EFProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/SeedData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/PagingInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/PagingInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Repository/FakeProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Repository/FakeProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Repository/IProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Repository/IProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/SportStore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/SportStore.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Shared/_ProductSummary.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Shared/_ProductSummary.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/_ViewImports.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/_ViewStart.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/bundleconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bundleconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ProductSummary.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ProductSummary.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.EntityFrameworkCore.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/PageLinkTagHelperTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/PageLinkTagHelperTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/SportStore.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/SportStore.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SportStore/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c191e7e-ab78-4311-b06b-04b5444cfde3/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SportStore/bower.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/SportStore/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SportStore" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/SportStore/SportStore.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="SportStore" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="301331bb-b8f9-48f9-9daa-d85cbfea9e1f" name="Default Changelist" comment="" />
+      <created>1554240950198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554240950198</updated>
+      <workItem from="1554240961305" duration="1169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1169000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13409092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SportStore/bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c191e7e-ab78-4311-b06b-04b5444cfde3/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
