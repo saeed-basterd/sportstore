@@ -2,100 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301331bb-b8f9-48f9-9daa-d85cbfea9e1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SportStore/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportStore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SportStore.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportStore.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SportStore.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/.bowerrc" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/.bowerrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SportStore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Data/SportStoreDataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Data/SportStoreDataContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/20190206183848_initial.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Migrations/SportStoreDataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Migrations/SportStoreDataContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/EFProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/EFProductRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/SeedData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/PagingInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/PagingInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Repository/FakeProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Repository/FakeProductRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Repository/IProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Repository/IProductRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/SportStore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/SportStore.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Shared/Components/NavigationMenu/Default.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Shared/Components/NavigationMenu/Default.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/Shared/_ProductSummary.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/Shared/_ProductSummary.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/_ViewImports.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/Views/_ViewStart.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bin/Debug/netcoreapp2.2/SportStore.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/bundleconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/bundleconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Product/List.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Components/NavigationMenu/Default.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Components/NavigationMenu/Default.g.cshtml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ProductSummary.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ProductSummary.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.RazorTargetAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.EntityFrameworkCore.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/SportStore.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SportStore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/SportStore/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/PageLinkTagHelperTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/PageLinkTagHelperTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/SportStore.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/SportStore.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Tests.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/bin/Debug/netcoreapp2.2/SportStore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/Debug/netcoreapp2.2/SportStore.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/SportStore.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SportStore.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/SportStore.Tests/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,23 +58,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SportStore/appsettings.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+            <state relative-caret-position="764">
+              <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+              <folding>
+                <marker date="1554487318001" expanded="false" signature="6:317" ph="..." />
+                <marker date="1554487318001" expanded="true" signature="345:2677" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="397:2675" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="462:1517" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="683:1034" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="1583:2669" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="1863:2037" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="2271:2416" ph="{...}" />
+                <marker date="1554487318001" expanded="true" signature="2335:2402" ph="{...}" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c191e7e-ab78-4311-b06b-04b5444cfde3/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SportStore/bower.json">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -143,22 +83,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/ff/29305b00/ViewComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Views/Shared/Components/NavigationMenu/Default.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Kamaji.Learn/Learn.Advanced/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/SportStore/appsettings.json" />
+        <option value="$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs" />
+        <option value="$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs" />
+        <option value="$PROJECT_DIR$/src/SportStore/Startup.cs" />
+        <option value="$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs" />
+        <option value="$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/src/SportStore/Views/Shared/Components/NavigationMenu/Default.cshtml" />
+        <option value="$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs" />
+        <option value="$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1348" />
+    <option name="height" value="765" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -177,13 +142,78 @@
               <item name="src" type="24d0babc:SolutionExplorerModelNode" />
               <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Product" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="NavigationMenu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SportStore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SportStore.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,6 +223,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Launch Settings Profile.SportStore">
     <configuration name="SportStore" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/SportStore/SportStore.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -230,11 +261,13 @@
       <option name="presentableId" value="Default" />
       <updated>1554240950198</updated>
       <workItem from="1554240961305" duration="1169000" />
+      <workItem from="1554275743519" duration="5468000" />
+      <workItem from="1554470988449" duration="5463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1169000" />
+    <option name="totallyTimeSpent" value="12100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,22 +279,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13409092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13177083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -269,18 +293,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" weight="0.32954547" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.4303665" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -296,6 +329,9 @@
     <entry file="file://$PROJECT_DIR$/src/SportStore/bower.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c191e7e-ab78-4311-b06b-04b5444cfde3/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SportStore/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -303,8 +339,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c191e7e-ab78-4311-b06b-04b5444cfde3/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../Kamaji.Learn/Learn.Advanced/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Models/ViewModels/ProductsListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1554277082271" expanded="true" signature="73:301" ph="{...}" />
+            <marker date="1554277082271" expanded="true" signature="114:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SportStore.Tests/ProductControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <marker date="1554281177969" expanded="true" signature="6:162" ph="..." />
+            <marker date="1554281177969" expanded="true" signature="190:3779" ph="{...}" />
+            <marker date="1554281177969" expanded="true" signature="232:3777" ph="{...}" />
+            <marker date="1554281177969" expanded="false" signature="288:1387" ph="{...}" />
+            <marker date="1554281177969" expanded="true" signature="471:800" ph="{...}" />
+            <marker date="1554281177969" expanded="false" signature="1456:2454" ph="{...}" />
+            <marker date="1554281177969" expanded="true" signature="1658:1963" ph="{...}" />
+            <marker date="1554281177969" expanded="false" signature="2512:3771" ph="{...}" />
+            <marker date="1554281177969" expanded="true" signature="2535:2577" ph="/* Arrange ... */" />
+            <marker date="1554281177969" expanded="true" signature="2749:3173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1554471192431" expanded="true" signature="6:275" ph="..." />
+            <marker date="1554471192431" expanded="true" signature="297:2181" ph="{...}" />
+            <marker date="1554471192431" expanded="true" signature="324:2179" ph="{...}" />
+            <marker date="1554471192431" expanded="true" signature="383:446" ph="{...}" />
+            <marker date="1554471192431" expanded="true" signature="568:927" ph="{...}" />
+            <marker date="1554471192431" expanded="true" signature="1008:2173" ph="{...}" />
+            <marker date="1554471192431" expanded="true" signature="1172:2125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Infrastructure/PageLinkTagHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <folding>
+            <marker date="1554471349360" expanded="false" signature="6:336" ph="..." />
+            <marker date="1554471349360" expanded="true" signature="373:2211" ph="{...}" />
+            <marker date="1554471349360" expanded="true" signature="480:2209" ph="{...}" />
+            <marker date="1554471349360" expanded="true" signature="618:688" ph="{...}" />
+            <marker date="1554471349360" expanded="true" signature="1373:2203" ph="{...}" />
+            <marker date="1554471349360" expanded="true" signature="1581:2135" ph="{...}" />
+            <marker date="1554471349360" expanded="true" signature="1829:2017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Views/Product/List.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1549703585846" expanded="true" signature="30:117" ph="@..." />
+            <marker date="1549703585846" expanded="true" signature="64:117" ph="{...}" />
+            <marker date="1549703585846" expanded="true" signature="118:384" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <marker date="1554479150773" expanded="true" signature="16:584" ph="&lt;html.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="23:255" ph="&lt;head.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="256:576" ph="&lt;body.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="263:386" ph="&lt;div.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="387:568" ph="&lt;div.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="417:512" ph="&lt;div.../&gt;" />
+            <marker date="1554479150773" expanded="true" signature="515:561" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1554279074020" expanded="false" signature="6:115" ph="..." />
+            <marker date="1554279074020" expanded="true" signature="149:1202" ph="{...}" />
+            <marker date="1554279074020" expanded="true" signature="199:1200" ph="{...}" />
+            <marker date="1554279074020" expanded="true" signature="361:419" ph="{...}" />
+            <marker date="1554279074020" expanded="true" signature="489:1194" ph="{...}" />
+            <marker date="1554279074020" expanded="true" signature="566:1169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Views/Shared/Components/NavigationMenu/Default.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <marker date="1554481693562" expanded="true" signature="55:182" ph="&lt;a.../&gt;" />
+            <marker date="1554481693562" expanded="true" signature="184:402" ph="@..." />
+            <marker date="1554481693562" expanded="true" signature="214:402" ph="{...}" />
+            <marker date="1554481693562" expanded="true" signature="221:400" ph="&lt;a.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SportStore/Components/NavigationMenuViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <marker date="1554486639275" expanded="false" signature="6:157" ph="..." />
+            <marker date="1554486639275" expanded="true" signature="190:733" ph="{...}" />
+            <marker date="1554486639275" expanded="true" signature="253:731" ph="{...}" />
+            <marker date="1554486639275" expanded="true" signature="382:440" ph="{...}" />
+            <marker date="1554486639275" expanded="true" signature="486:725" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/ff/29305b00/ViewComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="155" column="32" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SportStore.Tests/NavigationMenuViewComponentTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding>
+            <marker date="1554487318001" expanded="false" signature="6:317" ph="..." />
+            <marker date="1554487318001" expanded="true" signature="345:2677" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="397:2675" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="462:1517" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="683:1034" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="1583:2669" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="1863:2037" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="2271:2416" ph="{...}" />
+            <marker date="1554487318001" expanded="true" signature="2335:2402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

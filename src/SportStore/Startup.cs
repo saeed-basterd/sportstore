@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -49,24 +44,25 @@ namespace SportStore
                 routes.MapRoute(
                     name: null,
                     template: "{category}/Page{productPage:int}",
-                    defaults: new {controller = "Product", action = "List"});
+                    defaults: new {controller = "Product", action = "List"}
+                );
 
                 routes.MapRoute(
                     name: null,
                     template: "Page{productPage:int}",
-                    defaults: new {controller = "Product", action = "List", productPage = 1});
+                    defaults: new {controller = "Product", action = "List", productPage = 1}
+                );
 
                 routes.MapRoute(
                     name: null,
                     template: "{category}",
                     defaults: new {controller = "Product", action = "List", productPage = 1});
 
-                routes.MapRoute(
-                    name: null,
+                routes.MapRoute(name: null,
                     template: "",
                     defaults: new {controller = "Product", action = "List", productPage = 1});
 
-                routes.MapRoute(null, "{controller}/{action}/{id?}");
+                routes.MapRoute(name: null, template: "{controller}/{action}/{id?}");
             });
 
             app.EnsurePopulated();

@@ -18,8 +18,9 @@ namespace SportStore.Tests
         [Fact]
         public void Can_Select_Categories()
         {
-            // Arrange
-            var mock = new Mock<IProductRepository>();
+            //Arrange
+            Mock<IProductRepository> mock =
+                new Mock<IProductRepository>();
             mock.Setup(m => m.Products)
                 .Returns((new Product[]
                 {
@@ -33,11 +34,13 @@ namespace SportStore.Tests
                 new NavigationMenuViewComponent(mock.Object);
 
             // Act = get the set of categories
-            string[] results = ((IEnumerable<string>) (target.Invoke()
-                as ViewViewComponentResult).ViewData.Model).ToArray();
+            string[] results =
+                ((IEnumerable<string>) (target.Invoke() as ViewViewComponentResult)
+                    .ViewData.Model)
+                .ToArray();
 
             // Assert
-            Assert.True(new[] {"Apples", "Oranges", "Plums"}.SequenceEqual(results));
+            Assert.True(new string[] {"Apples", "Oranges", "Plums"}.SequenceEqual(results));
         }
 
         [Fact]
@@ -45,18 +48,20 @@ namespace SportStore.Tests
         {
             // Arrange
             string categoryToSelect = "Apples";
+            
+            Mock<IProductRepository> mock =
+                new Mock<IProductRepository>();
 
-            var mock = new Mock<IProductRepository>();
             mock.Setup(m => m.Products)
                 .Returns((new Product[]
-                {
-                    new Product {ProductID = 1, Name = "P1", Category = "Apples"},
-                    new Product {ProductID = 2, Name = "P2", Category = "Oranges"},
-                }).AsQueryable<Product>());
-
+            {
+                new Product {ProductID = 1, Name = "P1", Category = "Apples"},
+                new Product {ProductID = 2, Name = "P2", Category = "Oranges"},
+            }).AsQueryable());
+            
             NavigationMenuViewComponent target =
                 new NavigationMenuViewComponent(mock.Object);
-
+            
             target.ViewComponentContext = new ViewComponentContext
             {
                 ViewContext = new ViewContext
@@ -64,15 +69,9 @@ namespace SportStore.Tests
                     RouteData = new RouteData()
                 }
             };
-
+            
             target.RouteData.Values["category"] = categoryToSelect;
-
-            // Action
-            string result =
-                (string) (target.Invoke() as
-                    ViewViewComponentResult).ViewData["SelectedCategory"];
-
-            // Assert
+            var result = (string) (target.Invoke() as ViewViewComponentResult).ViewData["SelectedCategory"];
             Assert.Equal(categoryToSelect, result);
         }
     }

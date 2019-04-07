@@ -9,7 +9,7 @@ namespace SportStore.Components
 {
     public class NavigationMenuViewComponent : ViewComponent
     {
-        private readonly IProductRepository _repository;
+        private IProductRepository _repository;
 
         public NavigationMenuViewComponent(IProductRepository repository)
         {
@@ -21,8 +21,8 @@ namespace SportStore.Components
             ViewBag.SelectedCategory = RouteData?.Values["category"];
             return View(_repository.Products
                 .Select(x => x.Category)
-                .Distinct().OrderBy(x => x));
-
+                .Distinct()
+                .OrderBy(x => x));
         }
     }
 }

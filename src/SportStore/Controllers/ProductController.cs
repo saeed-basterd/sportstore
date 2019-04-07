@@ -16,26 +16,24 @@ namespace SportStore.Controllers
             _repository = repository;
         }
 
-        [HttpGet("{category?}/{productPage:int?}")]
         public ViewResult List(string category, int productPage = 1)
         {
             return View(new ProductsListViewModel
-            {
-                Products = _repository.Products
-                    .Where(p => category == null || p.Category == category)
-                    .OrderBy(p => p.ProductID)
-                    .Skip((productPage - 1) * PageSize)
-                    .Take(PageSize),
-                PagingInfo = new PagingInfo
                 {
-                    CurrentPage = productPage,
-                    ItemsPerPage = PageSize,
-                    TotalItems = category == null
-                        ? _repository.Products.Count()
-                        : _repository.Products.Count(p => p.Category == category)
-                },
-                CurrentCategory = category
-            });
+                    Products = _repository.Products
+                        .Where(p => category == null || p.Category == category)
+                        .OrderBy(p=>p.ProductID)
+                        .Skip((productPage-1)*PageSize)
+                        .Take(PageSize),
+                    PagingInfo = new PagingInfo
+                    {
+                        CurrentPage = productPage,
+                        ItemsPerPage = PageSize,
+                        TotalItems = _repository.Products.Count()
+                    },
+                    CurrentCategory = category
+                }
+            );
         }
     }
 }
